@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\vs c++\repos\Project19\Project19\FileName.cpp(5,18): warning C4101: “C”: 未引用的局部变量
+  mytriangle.cpp
+  正在生成代码...
+  Project19.vcxproj -> D:\vs c++\repos\Project19\x64\Debug\Project19.exe

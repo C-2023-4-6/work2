@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\vs c++\repos\Project29\Project29\FileName.cpp(11,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project29.vcxproj -> D:\vs c++\repos\Project29\x64\Debug\Project29.exe
